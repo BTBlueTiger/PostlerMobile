@@ -1,0 +1,49 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qml/MainFrame.qml</file>
+        <file>qml/MainFrameForm.ui.qml</file>
+        <file>qml/postler_storage/PostlerStorageForm.ui.qml</file>
+        <file>qml/postler_storage/PostlerStorage.qml</file>
+        <file>qml/postler_plan/PostlerPlanForm.ui.qml</file>
+        <file>qml/postler_plan/PostlerPlan.qml</file>
+        <file>qml/postler_map/PostlerMapForm.ui.qml</file>
+        <file>qml/postler_map/PostlerMap.qml</file>
+        <file>qml/dialog/DialogSelectCancel.ui.qml</file>
+        <file>qml/custom/control/TextWithDeleteBtn.ui.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>res/OSMDatabase.db</file>
+        <file>qml/postler_plan/page_edit/PostlerEditPage.qml</file>
+        <file>qml/postler_plan/page_edit/PostlerEditPageForm.ui.qml</file>
+        <file>qml/postler_plan/page_load/PostlerPlanLoad.qml</file>
+        <file>qml/postler_map/MarkerRepeater.qml</file>
+        <file>qml/postler_plan/page_edit/ZabForm.ui.qml</file>
+        <file>qml/postler_plan/page_edit/Zab.qml</file>
+        <file>qml/postler_plan/page_edit/ZabStopForm.ui.qml</file>
+        <file>qml/postler_plan/page_edit/ZabStop.qml</file>
+        <file>qml/custom/TableFilter.qml</file>
+        <file>qml/custom/qmldir</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>icons/target.svg</file>
+        <file>icons/storage.svg</file>
+        <file>icons/package.svg</file>
+        <file>icons/menu.svg</file>
+        <file>icons/map.svg</file>
+        <file>icons/mail.svg</file>
+        <file>icons/delete.svg</file>
+        <file>icons/check.svg</file>
+        <file>icons/drop.svg</file>
+        <file>icons/navigation.svg</file>
+        <file>icons/unfold_more.svg</file>
+        <file>icons/arrow_circle_up.svg</file>
+        <file>icons/arrow_circle_down.svg</file>
+        <file>icons/unfold_less.svg</file>
+        <file>icons/explore_off.svg</file>
+        <file>icons/explore.svg</file>
+        <file>icons/error_outline.svg</file>
+        <file>icons/error.svg</file>
+        <file>icons/check_one.svg</file>
+        <file>icons/check_many.svg</file>
+    </qresource>
+</RCC>
